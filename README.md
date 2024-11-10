@@ -27,6 +27,11 @@
 <a href="https://github.com/LocaMartin/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="LocaMartin's GitHub Stats" style="max-width: 100%; margin-right: 20px;">
 </a>
+<p align="left">
+  <a herf="https://github.com/LocaMartin/github-readme-stat">
+    <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="Read Me Streak">
+  </a>
+</p>
 
 <p align="right">
   <a href="https://git.io/streak-stats">
@@ -34,7 +39,6 @@
   </a>
 </p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LocaMartin&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/LocaMartin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 <br><br>
 <hr>
