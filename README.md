@@ -46,8 +46,26 @@
 </div>
 
 <hr>
+<h2 id="connect" align=''>Connect</h2>
+<p>
+  <a herf="#">LinkedIn
+    <img src=""/>
+  </a>
+</p>
 
-<h2 id="donate" align=''> Support</h2>
+<p>
+  <a herf="#">X
+    <img src=""/>
+  </a>
+</p>
+
+<p>
+  <a herf="#">Telegram
+    <img src=""/>
+  </a>
+</p>
+
+<h2 id="donate" align=''>Support</h2>
 <p align="center">
   <a href="https://buymeacoffee.com/locabomartin">
     <img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
