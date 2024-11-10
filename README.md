@@ -24,6 +24,9 @@
 </div>
 <hr>
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<a href="https://github.com/LocaMartin/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="LocaMartin's GitHub Stats" style="max-width: 100%; margin-right: 20px;">
+</a>
 
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/LocaMartin/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=LocaMartin&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
