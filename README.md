@@ -24,9 +24,7 @@
 </div>
 <hr>
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<a href="https://github.com/LocaMartin/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="LocaMartin's GitHub Stats" style="max-width: 100%; margin-right: 20px;">
-</a>
+
 <p align="left">
   <a herf="https://github.com/LocaMartin/github-readme-stat">
     <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="Read Me Streak">
@@ -40,7 +38,6 @@
 </p>
 
  <p align="left"><a href="https://github.com/LocaMartin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-<br><br>
 <hr>
 <h2 id="donate" align=''> Support</h2>
 <p align="center"><a href="https://buymeacoffee.com/locabomartin"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
