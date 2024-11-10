@@ -28,23 +28,29 @@
 <div style="border: 2px solid black">
 <p align="left">
   <a herf="https://git.io/github-readme-stat">
-    <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="ReadMe Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="ReadMe Streak"/>
   </a>
 </p>
 
 <p align="right">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LocaMartin&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=LocaMartin&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
  <p align="left">
-   <a href="https://github.com/LocaMartin/github-readme-stats">
+   <a href="https://git.io/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450""/>
    </a>
  </p>
 </div>
+
 <hr>
+
 <h2 id="donate" align=''> Support</h2>
-<p align="center"><a href="https://buymeacoffee.com/locabomartin"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center">
+  <a href="https://buymeacoffee.com/locabomartin">
+    <img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
 
