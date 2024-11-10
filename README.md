@@ -19,7 +19,10 @@ modify the alignment <h3 align="center">A Passionate Web Devloper & Security Res
 <p><a href="https://buymeacoffee.com/locabomartin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/locabomartin" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=locamartin&show_icons=true&locale=en&layout=compact" alt="locamartin" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=locamartin&show_icons=true&locale=en" alt="locamartin" width="48%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=locamartin&show_icons=true&locale=en" alt="locamartin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=locamartin&" alt="locamartin" /></p>
+<p align="right">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=locamartin&" alt="locamartin" width="48%" />
+</p>
