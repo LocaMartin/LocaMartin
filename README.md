@@ -25,7 +25,6 @@
 <hr>
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<div style="border: 2px solid black">
 <p align="left">
   <a herf="https://git.io/github-readme-stat">
     <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="ReadMe Streak"/>
@@ -43,7 +42,25 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450""/>
    </a>
  </p>
-</div>
+
+<details>
+  <summary>Repositories</summary>
+  <style>
+    .repo-window {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 10px;
+      background-color: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+  </style>
+  <div class="repo-window">
+    <h3>Repository Name</h3>
+    <p>Description of the repository...</p>
+    <a href="https://github.com/LocaMartin/repository-name">View on GitHub</a>
+  </div>
+  <!-- Add more repositories as needed -->
+</details>
 
 <hr>
 <h2 id="connect" align=''>Connect</h2>
