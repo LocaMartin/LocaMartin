@@ -43,25 +43,6 @@
    </a>
  </p>
 
-<details>
-  <summary>Repositories</summary>
-  <style>
-    .repo-window {
-      border: 1px solid #ddd;
-      padding: 15px;
-      margin-bottom: 10px;
-      background-color: white;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-  </style>
-  <div class="repo-window">
-    <h3>Repository Name</h3>
-    <p>Description of the repository...</p>
-    <a href="https://github.com/LocaMartin/repository-name">View on GitHub</a>
-  </div>
-  <!-- Add more repositories as needed -->
-</details>
-
 <hr>
 <h2 id="connect" align=''>Connect</h2>
 <p>
