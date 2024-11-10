@@ -65,6 +65,8 @@
   </a>
 </p>
 
+<hr>
+
 <h2 id="donate" align=''>Support</h2>
 <p align="center">
   <a href="https://buymeacoffee.com/locabomartin">
