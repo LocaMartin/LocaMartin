@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/wpmorACxfZJN6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/channelfrederator-animation-channel-frederator-death-note-wpmorACxfZJN6">via GIPHY</a></p>
+<p align="center"><img src="https://giphy.com/embed/wpmorACxfZJN6" width="100%" height="auto"/></p>
 <h3 align="center">A Passionate Web Devloper & Security Reseacher</h3>
 <hr>
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
