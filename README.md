@@ -1,6 +1,4 @@
-<p align"center">
-  <img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8" alt="eye-l-logo" class="center-image">
-</p>
+<p align"center"><img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8"/></p>
 
 <h3 align="center">A Passionate Devloper & Security Reseacher</h3>
 <hr>
