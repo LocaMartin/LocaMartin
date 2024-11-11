@@ -47,7 +47,7 @@
 <hr>
 <h2 id="connect" align=''>Connect</h2>
 
-<p><a href="https://www.linkedin.com/in/loca-martin-014ab2278"><img src="https://github.com/user-attachments/assets/b34e8c8a-48f4-414b-bbe6-6ee8bb5b5b0e" width="20%" hight="20%" /></a></p>
+<p><a href="https://www.linkedin.com/in/loca-martin-014ab2278"><img src="https://github.com/user-attachments/assets/b34e8c8a-48f4-414b-bbe6-6ee8bb5b5b0e" width="10%" hight="10%" /></a></p>
 
 <p><a href="https://t.me/LocaMartin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="50" height="50"/></a></p>
 
