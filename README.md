@@ -47,21 +47,11 @@
 <hr>
 <h2 id="connect" align=''>Connect</h2>
 
+<p><a href="https://www.linkedin.com/in/loca-martin-014ab2278"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fnohat.cc%2Ff%2Flinkedin-png-3-buy-clip-art-transparent-background-linkedin-logo-black%2Fm2H7K9A0m2i8N4Z5-201907232303.html&amp;psig=AOvVaw041ZGLCgqaXL_JvwOQHHYO&amp;ust=1731444795811000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCIi3svOU1YkDFQAAAAAdAAAAABAE"/></a></p>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <p>
-      <a href="https://www.linkedin.com/in/loca-martin-014ab2278">
-        <img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fnohat.cc%2Ff%2Flinkedin-png-3-buy-clip-art-transparent-background-linkedin-logo-black%2Fm2H7K9A0m2i8N4Z5-201907232303.html&amp;psig=AOvVaw041ZGLCgqaXL_JvwOQHHYO&amp;ust=1731444795811000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCIi3svOU1YkDFQAAAAAdAAAAABAE"/>
-      </a>
-    </p>
-    <p>
-      <a href="https://t.me/LocaMartin">
-        <img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%en.m.wikipedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&amp;psig=AOvVaw2VKE-3G_J9eGYngxbipxdR&amp;ust=1731445231495000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCMDc2MOW1YkDFQAAAAAdAAAAABAE"/>
-      </a>
-    </p>
-  </div>
-</div>
+<p><a href="https://t.me/LocaMartin"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%en.m.wikipedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&amp;psig=AOvVaw2VKE-3G_J9eGYngxbipxdR&amp;ust=1731445231495000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCMDc2MOW1YkDFQAAAAAdAAAAABAE"/></a></p>
+
+
 
 <hr>
 
