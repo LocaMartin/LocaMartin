@@ -50,7 +50,7 @@
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <p>
-      <a herf="#">
+      <a herf="https://www.linkedin.com/in/loca-martin-014ab2278">
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnohat.cc%2Ff%2Flinkedin-png-3-buy-clip-art-transparent-background-linkedin-logo-black%2Fm2H7K9A0m2i8N4Z5-201907232303.html&psig=AOvVaw041ZGLCgqaXL_JvwOQHHYO&ust=1731444795811000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi3svOU1YkDFQAAAAAdAAAAABAE"/>
       </a>
     </p>
