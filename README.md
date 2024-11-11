@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8" alt="eye-l-logo">
-</div>
-
-<img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8" alt="eye-l-logo" class="center-image">
+<p align"center">
+  <img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8" alt="eye-l-logo" class="center-image">
+</p>
 
 
 ![eye-l-logo](https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8)
