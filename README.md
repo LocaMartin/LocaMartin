@@ -1,6 +1,6 @@
-<img src="https://tenor.com/view/eye-l-logo-letter-l-spinning-gif-16571970" alt="Eye L Logo Sticker">
 
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VkbWo3czAycmptOHI0cDh2OGJ1N3lqdGV1Z2YzNXp4djM0bHJuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpmorACxfZJN6/giphy.gif"width="100%" height="auto"/></p>
+![eye-l-logo](https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8)
+
 <h3 align="center">A Passionate Devloper & Security Reseacher</h3>
 <hr>
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
