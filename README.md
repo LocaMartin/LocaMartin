@@ -46,12 +46,14 @@
 
 <hr>
 <h2 id="connect" align=''>Connect</h2>
-
-<div style="width: 100%;">
-  <p><a href="https://www.linkedin.com/in/loca-martin-014ab2278"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-medium-size.png" width="10%" hight="10%" /></a></p>
-  <p><a href="https://t.me/LocaMartin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="30" height="30"/></a></p>
-</div>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/loca-martin-014ab2278" target="blank">
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-medium-size.png" width="10%" hight="10%" />
+  </a>
+  <a href="https://t.me/LocaMartin" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="30" height="30"/>
+  </a>
+</p>
 <hr>
 
 <h2 id="donate" align=''>Support</h2>
