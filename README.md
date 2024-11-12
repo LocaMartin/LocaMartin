@@ -49,7 +49,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/loca-martin-014ab2278" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-medium-size.png" height="10%" width="10%"/>
-  </a><br>
+  </a>
+  <span style="display:inline-block;width:20px;"></span>
   <a href="https://t.me/LocaMartin" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  height="5%" width="5%"/>
   </a>
