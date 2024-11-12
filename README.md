@@ -52,7 +52,7 @@
   </a>
   <span style="display:inline-block;width:20px;"></span>
   <a href="https://t.me/LocaMartin" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  height="5%" width="5%"/>
+    <img src="https://pngimg.com/uploads/telegram/telegram_PNG7.png"  height="5%" width="5%"/>
   </a>
 </p>
 <hr>
