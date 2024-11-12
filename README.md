@@ -51,7 +51,7 @@
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-medium-size.png" height="10%" width="10%"/>
   </a>
   <a href="https://t.me/LocaMartin" target="blank">
-    <img src="https://pngimg.com/uploads/telegram/telegram_PNG7.png"  height="10%" width="10%"/>
+    <img src="https://pngimg.com/uploads/telegram/telegram_PNG35.png"  height="10%" width="10%"/>
   </a>
 </p>
 <hr>
