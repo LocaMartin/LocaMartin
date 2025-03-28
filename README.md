@@ -34,7 +34,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple" style="width: 51%;" />
 </div>
 
+<h2 id="projects" align=''>Projects</h2>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px;">
+    <img src="https://via.placeholder.com/50" alt="Project 1 Image" width="50px" height="50px">
+    <h3><a href="https://github.com/LocaMartin/awx">awx</a></h3>
+    <p>Brief description of Project 1.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVmMXJmNWtzM3VyZ2draWd0NGtrenlhYndjdGVidGRudHF5N25kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rlChzWTthWgyA/giphy.gif" alt="Project 2 Image" width="50px" height="50px">
+    <h3><a href="https://github.com/LocaMartin/turtle">turtle</a></h3>
+    <p>Brief description of Project 2.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width="300px;">
+    <img src="https://via.placeholder.com/50" alt="Project 3 Image" width="50px" height="50px">
+    <h3><a href="https://github.com/LocaMartin/headhunter">headhunter</a></h3>
+    <p>Brief description of Project 3.</p>
+  </div>
+</div>
 
 <h2 id="contact" align=''>Contact</h2>
 <p>
