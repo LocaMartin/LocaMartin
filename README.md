@@ -26,34 +26,10 @@
 <hr>
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<p align="left">
-  <a herf="https://git.io/github-readme-stat">
-    <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20" alt="ReadMe Streak"/>
-  </a>
-</p>
 
-<p align="right">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LocaMartin&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
- <p align="left">
-   <a href="https://git.io/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450""/>
-   </a>
- </p>
-
-<hr>
-<h2 id="connect" align=''>Connect</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/loca-martin-014ab2278" target="blank">
-    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-medium-size.png" height="10%" width="10%"/>
-  </a>
-  <a href="https://t.me/LocaMartin" target="blank">
-    <img src="https://pngimg.com/uploads/telegram/telegram_PNG35.png"  height="10%" width="10%"/>
-  </a>
-</p>
-<hr>
 
 <p align="center"><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/></p>
