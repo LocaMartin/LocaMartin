@@ -56,12 +56,4 @@
 </p>
 <hr>
 
-<div align="center"> <a href="https://twitter.com/username"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://linkedin.com/in/username"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://dev.to/username"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /> </a> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div>
-
-<h2 id="donate" align=''>Support</h2>
-<p align="center">
-  <a href="https://buymeacoffee.com/locabomartin">
-    <img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/></p>
