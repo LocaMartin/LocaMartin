@@ -2,9 +2,11 @@
 
 <h3 align="center">Loca Martin</h3>
 <h3 align="center">A Passionate Developer & Security Reseacher</h3>
+<p>
+    Hello! I'm Loca Martin, a passionate developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
+</p>
 <hr>
 <h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
-<br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
@@ -25,9 +27,38 @@
   </div>
 </div>
 <hr>
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple)](https://github.com/LocaMartin)
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple" style="width: 48%; margin-right: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple" style="width: 48%;" />
+</div>
+
+<h2 id="projects" align=''>Projects</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px;">
+    <h3><a href="https://github.com/LocaMartin/project1">Project 1</a></h3>
+    <p>Brief description of Project 1.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px;">
+    <h3><a href="https://github.com/LocaMartin/project2">Project 2</a></h3>
+    <p>Brief description of Project 2.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px;">
+    <h3><a href="https://github.com/LocaMartin/project3">Project 3</a></h3>
+    <p>Brief description of Project 3.</p>
+  </div>
+</div>
+<hr>
+
+<h2 id="contact" align=''>Contact</h2>
+<p>
+  <a href="mailto:your.email@example.com">Email</a> |
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> |
+  <a href="https://twitter.com/yourprofile">Twitter</a>
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/></p>
