@@ -1,8 +1,9 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/707ab373-4a14-4887-aa0f-d5d549f8c3e8"/></p>
 
-<h3 align="center">A Passionate Devloper & Security Reseacher</h3>
+<h3 align="center">Loca Martin</h3>
+<h3 align="center">A Passionate Developer & Security Reseacher</h3>
 <hr>
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -26,10 +27,7 @@
 <hr>
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-
-[![](https://raw.githubusercontent.com/LocaMartin/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/LocaMartin/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LocaMartin/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/LocaMartin/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LocaMartin/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/LocaMartin/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LocaMartin/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/LocaMartin/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/LocaMartin/github-profile-summary-cards)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple)](https://github.com/LocaMartin)
 
 <p align="center"><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/></p>
