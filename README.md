@@ -50,7 +50,7 @@
       </td>
       <td>
       <a href="https://github.com/LocaMartin/credstore">
-        <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project C Image" width="200" height="200"><br>
+        <img src="https://github.com/LocaMartin/credstore/blob/2c1818fb6990cf4175dc6399a8473c5506c693d1/.res/logo.svg" alt="Project C Image" width="200" height="200"><br>
         <b>CredStore: Predictive Analytics Model</b><br>
       </a>
         A machine learning model developed in Python using scikit-learn to predict customer churn based on historical data.
