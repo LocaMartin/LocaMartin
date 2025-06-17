@@ -3,7 +3,7 @@
 <h3 align="center">Loca Martin</h3>
 <h3 align="center">A Passionate Developer & Security Reseacher</h3>
 <p>
-    Hi! i'm a passionate developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
+    Hi! i'm a developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
 </p>
 <hr>
 <h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
@@ -28,35 +28,20 @@
 </div>
 <hr>
 
-<table> <tr> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 1</strong><br> <sub>Description of Project 1</sub> </td> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 2</strong><br> <sub>Description of Project 2</sub> </td> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 3</strong><br> <sub>Description of Project 3</sub> </td> </tr> </table>
-
+<h2 id="knowledge_skills" align=''>GitHub Stats</h2>
 <div align="center">
-
-  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
-    <a href="https://github.com/yourusername/project1" target="_blank">
-      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 1" style="width:100px; border-radius:8px;">
-      <h4>🚀 Project 1</h4>
-    </a>
-    <p style="font-size: 14px;">Short description of Project 1.</p>
-  </div>
-
-  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
-    <a href="https://github.com/yourusername/project2" target="_blank">
-      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 2" style="width:100px; border-radius:8px;">
-      <h4>🔧 Project 2</h4>
-    </a>
-    <p style="font-size: 14px;">Short description of Project 2.</p>
-  </div>
-
-  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
-    <a href="https://github.com/yourusername/project3" target="_blank">
-      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 3" style="width:100px; border-radius:8px;">
-      <h4>📊 Project 3</h4>
-    </a>
-    <p style="font-size: 14px;">Short description of Project 3.</p>
-  </div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple" width="400px" style="margin: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple" width="52%" style="margin: 1%;" />
 </div>
+
+---
+
+<h2 id="knowledge_skills" align=''>Project Gallery</h2>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="40%" style="margin: 1%;" />
+  <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="40%" style="margin: 1%;" />
+</div>
+
 
 <h2 id="contact" align="center">📬 Contact</h2>
 <p align="center">
