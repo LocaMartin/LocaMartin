@@ -59,7 +59,7 @@
     <tr>
       <td>
       <a href="https://github.com/LocaMartin/cryptocut">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnejUybnhlMzZ6cWJ4OGo2cHNveTAzZHppYjF1cWw4aThnaGhxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rpIPFqrxkXTShsBhBS/giphy.gif" alt="Project B Image" width="200" height="200"><br>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWc3dHJjb2M5a2Q3dGJ0OGowbHp6bzJvMGpvaWpqdmtiMjFhNDN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rpIPFqrxkXTShsBhBS/giphy.gif" alt="Project B Image" width="200" height="200"><br>
         <b>CryptoCut: E-commerce Storefront</b><br>
       </a>
         A mock e-commerce site demonstrating product listings, shopping cart functionality, and user authentication.
