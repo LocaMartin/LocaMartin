@@ -3,7 +3,7 @@
 <h3 align="center">Loca Martin</h3>
 <h3 align="center">A Passionate Developer & Security Reseacher</h3>
 <p>
-    Hi! Myself Loca Martin, a passionate developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
+    Hi! i'm a passionate developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
 </p>
 <hr>
 <h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
@@ -28,38 +28,34 @@
 </div>
 <hr>
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<table> <tr> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 1</strong><br> <sub>Description of Project 1</sub> </td> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 2</strong><br> <sub>Description of Project 2</sub> </td> <td align="center" width="33%"> <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" width="100%" /> <br><strong>Project 3</strong><br> <sub>Description of Project 3</sub> </td> </tr> </table>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple" style="width: 48%; margin-right: 1%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple" style="width: 51%;" />
-</div>
 
-<h2 id="projects" align=''>Projects</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px; text-align: left;">
-    <img src="https://via.placeholder.com/50" alt="Project 1 Image" width="50px" height="50px">
-    <h3><a href="https://github.com/LocaMartin/awx">awx</a></h3>
-    <p>Brief description of Project 1.</p>
+  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
+    <a href="https://github.com/yourusername/project1" target="_blank">
+      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 1" style="width:100px; border-radius:8px;">
+      <h4>🚀 Project 1</h4>
+    </a>
+    <p style="font-size: 14px;">Short description of Project 1.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 300px; text-align: right;">
-    <img src="https://via.placeholder.com/50" alt="Project 2 Image" width="50px" height="50px">
-    <h3><a href="https://github.com/LocaMartin/turtle">turtle</a></h3>
-    <p>Brief description of Project 2.</p>
+  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
+    <a href="https://github.com/yourusername/project2" target="_blank">
+      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 2" style="width:100px; border-radius:8px;">
+      <h4>🔧 Project 2</h4>
+    </a>
+    <p style="font-size: 14px;">Short description of Project 2.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width="300px; text-align: left;">
-    <img src="https://via.placeholder.com/50" alt="Project 3 Image" width="50px" height="50px">
-    <h3><a href="https://github.com/LocaMartin/headhunter">headhunter</a></h3>
-    <p>Brief description of Project 3.</p>
+  <div style="display:inline-block; width:50px; margin:10px; vertical-align:top;">
+    <a href="https://github.com/yourusername/project3" target="_blank">
+      <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project 3" style="width:100px; border-radius:8px;">
+      <h4>📊 Project 3</h4>
+    </a>
+    <p style="font-size: 14px;">Short description of Project 3.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; width="300px; text-align: right;">
-    <img src="https://via.placeholder.com/50" alt="Project 4 Image" width="50px" height="50px">
-    <h3><a href="https://github.com/LocaMartin/newproject">newproject</a></h3>
-    <p>Brief description of Project 4.</p>
-  </div>
 </div>
 
 <h2 id="contact" align="center">📬 Contact</h2>
@@ -72,9 +68,6 @@
   </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-  <a href="https://github.com/LocaMartin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
