@@ -77,10 +77,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
-<p>
-  <a href="mailto:your.email@example.com">Email</a> |
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> |
-  <a href="https://twitter.com/yourprofile">Twitter</a>
-</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/></p>
