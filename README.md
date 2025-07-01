@@ -3,7 +3,7 @@
 <h3 align="center">Loca Martin</h3>
 <h3 align="center">A Passionate Developer & Security Reseacher</h3>
 <p>
-    Hi! i'm a developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application security, network security, and developing robust and scalable applications.
+    Hi! i'm a developer and security researcher with a keen interest in cybersecurity and software development. I love exploring new technologies and applying them to solve real-world problems. My focus areas include web application & network security, and developing robust and applications.
 </p>
 <hr>
 <h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
