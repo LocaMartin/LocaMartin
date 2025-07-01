@@ -36,7 +36,7 @@
 
 ---
 
-<h2>My Project Gallery</h2>
+<h2>Project Gallery</h2>
 
 <table>
   <tbody>
