@@ -59,7 +59,7 @@
     <tr>
       <td>
       <a href="https://github.com/LocaMartin/cryptocut">
-        <img src="https://github.com/LocaMartin/deathnote/blob/main/hacking/web/bugbounty/crypto/coin.gif" alt="Project B Image" width="200" height="200"><br>
+        <img src="https://github.com/LocaMartin/deathnote/blob/main/hacking/web/bugbounty/crypto/coin.gif" alt="Project B Image" width="10" height="10"><br>
         <b>CryptoCut: E-commerce Storefront</b><br>
       </a>
         A mock e-commerce site demonstrating product listings, shopping cart functionality, and user authentication.
