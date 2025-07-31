@@ -155,59 +155,6 @@
 
 ---
 
-<h2>Project Gallery</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-      <a href="https://github.com/LocaMartin/turtle">
-        <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project A Image" width="200" height="200"><br>
-        <b>Turtle: Interactive Portfolio</b><br>
-      </a>
-        A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.
-      </td>
-      <td>
-      <a href="https://github.com/LocaMartin/credstore">
-        <img src="https://github.com/LocaMartin/credstore/blob/2c1818fb6990cf4175dc6399a8473c5506c693d1/.res/logo.svg" alt="Project C Image" width="200" height="200"><br>
-        <b>CredStore: Predictive Analytics Model</b><br>
-      </a>
-        A machine learning model developed in Python using scikit-learn to predict customer churn based on historical data.
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <a href="https://github.com/LocaMartin/cryptocut">
-        <img src="https://github.com/LocaMartin/deathnote/blob/main/hacking/web/bugbounty/crypto/coin.gif" alt="Project B Image" width="10" height="10"><br>
-        <b>CryptoCut: E-commerce Storefront</b><br>
-      </a>
-        A mock e-commerce site demonstrating product listings, shopping cart functionality, and user authentication.
-      </td>
-      <td>
-      <a href="https://github.com/LocaMartin/headhunter">
-        <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project D Image" width="200" height="200"><br>
-        <b>HeadHunter: Data Visualization Dashboard</b><br>
-      </a>
-        An interactive dashboard created with Tableau, visualizing complex sales data and identifying key trends and insights.
-      </td>
-      <td>
-      <a href="https://github.com/LocaMartin/dork">
-        <img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" alt="Project D Image" width="200" height="200"><br>
-        <b>Dork: Data Visualization Dashboard</b><br>
-      </a>
-        An interactive dashboard created with Tableau, visualizing complex sales data and identifying key trends and insights.
-      </td>
-      <td>
-      <a href="https://github.com/LocaMartin/awx">
-        <img src="https://github.com/LocaMartin/deathnote/blob/3dba4ec90bc8303832205c4aafb2f5553be1ed50/hacking/web/bugbounty/crypto/coin.gif" alt="Project D Image" width="200" height="200"><br>
-        <b>AWX: Data Visualization Dashboard</b><br>
-      </a>
-        An interactive dashboard created with Tableau, visualizing complex sales data and identifying key trends and insights.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <h2>Contact</h2>
 <p>
   <a href="mailto:your.email@example.com">
