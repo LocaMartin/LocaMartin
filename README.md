@@ -52,7 +52,7 @@
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
       <td><a href="https://github.com/LocaMartin/turtle">
-      <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnejUybnhlMzZ6cWJ4OGo2cHNveTAzZHppYjF1cWw4aThnaGhxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rpIPFqrxkXTShsBhBS/giphy.gif" style="height: 40px; width: 40px"/><br></div><b>Cryptocut: Interactive Portfolio</b></a>
+      <div align="center"><img src="https://private-user-images.githubusercontent.com/129671499/473640653-1a0e4e04-54bf-4564-beed-ed9416ffd4a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwOTEyMjIsIm5iZiI6MTc1NDA5MDkyMiwicGF0aCI6Ii8xMjk2NzE0OTkvNDczNjQwNjUzLTFhMGU0ZTA0LTU0YmYtNDU2NC1iZWVkLWVkOTQxNmZmZDRhMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwMVQyMzI4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODhkYmRjNmY3YTA1NmM3ZGRjYmU1ZDU0YjJmYTJiODUzZGE2ZmYxNjI2NzRmYjQ3ZDdiYTExYzA5ZTIyMThmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.U5zCcCuHFufLY3ApbuEcQXPPmSeTGMaoTnF-hImVFQg" style="height: 40px; width: 40px"/><br></div><b>Cryptocut: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
       <td><a href="https://github.com/LocaMartin/turtle">
