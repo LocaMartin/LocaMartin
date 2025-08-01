@@ -43,109 +43,110 @@
   <tbody>
     <tr>
     <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://camo.githubusercontent.com/f2453ea9034e4c7e2051b8a07c88c293f9a09e60d82a21225f455ed3c79bd93a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e47566d4d584a6d4e57747a4d3356795a326472615764304e477472656e6c68596e646a6447566964475275644846354e32356b5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f726c43687a57547468576779412f67697068792e676966" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><p style="color: red;"><b>403</p></b></div><b>403: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnejUybnhlMzZ6cWJ4OGo2cHNveTAzZHppYjF1cWw4aThnaGhxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rpIPFqrxkXTShsBhBS/giphy.gif" style="height: 40px; width: 40px"/><br></div><b>Cryptocut: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    </tr>
-    <tr>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://raw.githubusercontent.com/LocaMartin/credstore/refs/heads/main/.res/logo.svg" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
     </tr>
     <tr>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://github.com/LocaMartin/netcon/blob/d949beddc879a1ce468c198c4af9a50eb86233a3/netexec.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    </tr>
-    <tr>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
-      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
-    </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
     </tr>
     <tr>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
     </tr>
     <tr>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
-    <div>
-      <td><a href="https://github.com/LocaMartin/turtle"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 10px; width: 10px"/><br><b>Turtle: Interactive Portfolio</b></a>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
+      <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
+    </div>
+      <td><a href="https://github.com/LocaMartin/turtle">
+      <div align="center"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" style="height: 40px; width: 40px"/><br></div><b>Turtle: Interactive Portfolio</b></a>
       <p>A responsive web portfolio built with HTML and JavaScript, showcasing various design and development skills.</p></td>
     </div>
     </tr>
