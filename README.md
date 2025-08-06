@@ -15,8 +15,13 @@ Hi! I'm a developer and security researcher with a keen interest in cybersecurit
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&color=000000" alt="CSS" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&color=000000" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Batch-4B4B4B?style=for-the-badge&logo=windows&color=000000" alt="Batch Script" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&color=000000" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" alt="Django" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
@@ -26,8 +31,8 @@ Hi! I'm a developer and security researcher with a keen interest in cybersecurit
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/🧬 Nuclei-4E4E4E?style=for-the-badge&color=000000" alt="Nuclei" />
 </div>
-
 ---
 
 <h2 id="knowledge_skills" align=''>GitHub Stats</h2>
