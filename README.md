@@ -33,6 +33,7 @@ Hi! I'm a developer and security researcher with a keen interest in cybersecurit
   <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
   <img src="https://img.shields.io/badge/🧬 Nuclei-4E4E4E?style=for-the-badge&color=000000" alt="Nuclei" />
 </div>
+
 ---
 
 <h2 id="knowledge_skills" align=''>GitHub Stats</h2>
