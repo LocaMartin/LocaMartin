@@ -38,7 +38,7 @@ Hi! I'm a developer and security researcher with a keen interest in cybersecurit
 
 <h2 id="knowledge_skills" align=''>GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple" width="400px" style="margin: 1%;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocaMartin&layout=compact&theme=midnight-purple" width="400px" style="margin: 1%;" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=LocaMartin&show_icons=true&theme=midnight-purple" width="52%" style="margin: 1%;" />
 </div>
 
