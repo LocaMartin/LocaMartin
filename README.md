@@ -93,6 +93,8 @@ Hi! I'm a developer and security researcher with a keen interest in cybersecurit
 
 ---
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/LocaMartin.png" alt="Your Image Badge" />
+
 <h2>Contact</h2>
 <p>
   <a href="mailto:your.email@example.com">
